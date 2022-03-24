@@ -263,7 +263,7 @@ Elite Politics And Succession
 {{< tdopen >}}
 Fewsmith, Joseph. "[Is Political Reform Ahead](http://www.hoover.org/research/political-reform-ahead-beijing-confronts-problems-facing-society-and-ccp)." _China Leadership Monitor_ (Winter 2002): Issue One.  
 
-Miller, H. Lyman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Road to the Sixteenth Party Congress." (PDF - 30 MB)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf) _China Leadership Monitor_ (Winter 2002): Issue One.  
+Miller, H. Lyman. ["The Road to the Sixteenth Party Congress." (PDF - 30 MB)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf) _China Leadership Monitor_ (Winter 2002): Issue One.  
 MacFarquhar, Roderick. "Demolition Man_." New York Review of Books_ (27 March 1997).
 
 \-------. "Passing the Baton in Beijing." _New York Review of Books_ (18 Feb 1988).
